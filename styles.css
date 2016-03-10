@@ -1,0 +1,364 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#Background {
+	width: 1100px;
+	margin:10px auto 0 auto;
+	font-size: 12px;
+	color:#FFFFFF;
+	background-color:#090909;
+	}
+		
+#Header {
+	text-align: left;
+	}
+
+#Header img {
+	padding: 0 0 5px 5px;
+	}
+	
+#NavBar {
+	font-weight: lighter;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+	clear: both;
+	text-align: left;
+	color: #FFFFFF;
+	background-color: #090909;
+	margin-top: 0;
+	margin-right: 5px;
+	margin-bottom: 0;
+	margin-left: 0px;
+	padding-top: 5px;
+	padding-right: 0;
+	padding-bottom: 5px;
+	padding-left: 0;
+	}
+
+#NavBar a {
+	padding: 0 20px;
+	margin: 0;
+	}
+
+#NavBar a:link, #NavBar a:visited {
+	color: #999999;
+	text-decoration: none;
+	}
+
+#NavBar a:hover, #NavBar a:active {
+	color: #FFFFFF;
+	text-decoration: none;
+	margin-right: 20px;
+	}
+
+#NavBar a.news {
+	color: #FFFFFF;
+	text-decoration: none;
+	}
+#NavBar a.news:link, a.Colored:visited {
+	text-decoration: none;
+	color: #8a8a8a;
+	}
+#NavBar a.news:hover, a.Colored:active {
+	text-decoration: none;
+	color: #8a8a8a;
+	}
+
+/* Portfolio Catagory Pages, CV, Links, Contacts, Publications */
+#Main {
+	padding: 0 5px 0 5px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #8a8a8a;
+	}
+
+#Main h1 {
+	margin:0 0 10px 0;
+	text-align: right;
+	color:#8a8a8a;
+	font-size: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	border-bottom: 1px solid #FFFFFF;
+	}
+
+#Main h2 {
+	margin: 0 0 5px 0;
+	color: #8a8a8a;
+	font-size: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+	border-bottom-color: #BBBBBB;
+	}	
+	
+#Main h3 {
+	margin: 0 0 5px 0;
+	text-align: left;
+	color: #8a8a8a;
+	font-size: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+	}
+	
+#Main h4 {
+	margin: 10px 0 0 10px;
+	text-align: left;
+	color: #8a8a8a;
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	}
+#news {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: lighter;
+	font-size: 11px;
+	padding-left: 18px;
+}
+	
+#Main pre {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #8a8a8a;
+	}
+	
+#Main a:link, #Main a:visited {
+	text-decoration: none;
+	color:#999999;
+	}
+
+#Main a:hover , #Main a:active {
+	text-decoration: none;
+	color:#FFFFFF;
+	}
+	
+#Main a:link img, #Main a:visited img {
+	margin: 5px 5px 5px 5px;
+	padding: 0 0 0 0;
+	border: 1px solid #999999;
+	}
+
+#Main a:hover img, #Main a:active img {
+	margin: 5px 5px 5px 5px;
+	padding: 0 0 0 0;
+	border: 1px solid #FFFFFF;
+	}
+.email {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #8a8a8a;
+}
+
+#Main .portLink {
+	height: 120px;
+	vertical-align: top;
+	}
+
+#Main .shortD{
+	width: 670px;
+	vertical-align: top;
+	}
+	 
+#Main .large {
+	width: 735px;
+	height: 452px;
+	vertical-align: top;
+	text-align: center;
+	}
+	
+#Main .thumb {
+	width: 345px;
+	vertical-align: top;
+	}
+	
+#Main .thumb img{
+	margin: 5px 5px 5px 5px;
+	padding: 0 0 0 0;
+	border: 1px solid #999999;
+	}
+	
+#Main .longD {
+	vertical-align: top;
+	}
+	
+#Main .HRD{
+	vertical-align: top;
+	text-align: center;
+	}
+
+#Main .CV{
+	line-height: 150%;
+	}
+		
+#LeftColm {
+	width: 510px;
+	float: left;
+	background-color:#090909;
+	display: inline;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 14px;
+	padding-top: 20px;
+	color: 8a8a8a;
+	}
+#Background #Main #LeftColmpolitics {
+	float: left;
+	width: 380px;
+}
+	
+#LeftColm a {
+	margin: 0;
+	}
+		
+#LeftColm a:link img, #LeftColm a:visited img {
+	margin: 5px 0 20px 0;
+	padding: 0 0 0 0;
+	border: 1px solid #999999;
+	float: left;
+	}
+
+#LeftColm a:hover img, #LeftColm a:active img {
+	margin: 5px 0 20px 0;
+	padding: 0 0 0 0;
+	border: 1px solid #FFFFFF;
+	float: left; 
+	}
+	
+#LeftColm h2 {
+	margin: 5px 0 5px 0;
+	text-align: left;
+	color: #8a8a8a;
+	font-size: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+	border-bottom: 1px solid #8a8a8a;
+	}
+
+#LeftColm h3 {
+	text-align: left;
+	color: #8a8a8a;
+	font-weight: bold;
+	font-size: 13px;
+	font-family: Arial, Helvetica, sans-serif;
+	}
+	
+#LeftColm h4 {
+	margin: 5px 0 0 0;
+	text-align: left;
+	color: #8a8a8a;
+	font-size: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: normal;
+	font-weight: lighter;
+	}
+	
+#LeftColm p {
+	text-align: justify;
+	margin: 0 0 40px 0;
+	font-size: 12px;
+	}
+
+#RightColm {
+	width: 510px;
+	float: right;
+	background-color:#090909;
+	margin-top: 0;
+	margin-right: 10px;
+	margin-bottom: 0;
+	margin-left: 0;
+	letter-spacing: normal;
+	text-align: left;
+	word-spacing: normal;
+	padding-top: 20px;
+	}
+#Background #Main #RightColmColored {
+	margin-right: 0px;
+	padding-right: 600px;
+	padding-top: 100px;
+}
+	
+#RightColm a {
+	margin: 0;
+	}
+	
+#RightColm a:link img, #RightColm a:visited img {
+	margin: 5px 0 20px 0;
+	padding: 0 0 0 0;
+	border: 1px solid #666666;
+	}
+
+#RightColm a:hover img, #RightColm a:active img {
+	margin: 5px 0 20px 0;
+	padding: 0 0 0 0;
+	border: 1px solid #FFFFFF;
+	}
+
+#RightColm h2 {
+	margin: 5px 0 5px 0;
+	text-align: right;
+	color: #8a8a8a;
+	font-size: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+	border-bottom: 1px solid #8a8a8a;
+	}
+		
+#RightColm h4 {
+	margin: 5px 0 0 0;
+	text-align: right;
+	color: #8a8a8a;
+	font-size: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: lighter;
+	}
+
+#RightColm p {
+	margin: 0;
+	}
+			
+#RightColm table {
+	}
+
+#RightColm td {
+	border-bottom: 1px solid #8a8a8a;
+	}
+	
+#RightColm td p {
+	margin: 0 0 5px 0;
+	font-size: 12px;
+	}
+	
+#Indent {
+	padding-left: 125px;
+	}
+	
+#SmallIndent {
+	padding-left: 60px;
+	vertical-align: top;
+	padding-right: 108px;
+	}
+
+#Links {
+	width: 350px;
+	padding: 0 20px 0 0;
+	}
+	
+#Publications {
+	width: 419px;
+	vertical-align: top;
+	}
+	
+#Footer {
+	text-align: center;
+	color: #8a8a8a;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+	clear: both;
+	border-top-color: #8a8a8a;
+	margin-top: 10px;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+	padding-top: 4px;
+	padding-right: 0;
+	padding-bottom: 4px;
+	padding-left: 14;
+	}
+#Background #Main #RightColmpolitics {
+	float: right;
+	width: 640px;
+}
+#textpolitics {
+	width: 450px;
+}
